@@ -1,0 +1,43 @@
+@charset "utf-8";
+body{
+    background-color: blanchedalmond;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+* {
+    margin: 10px;
+    padding: 0;
+    border: none;
+    top: 0;
+}
+
+h1{
+    text-align: center;
+    background-color: chocolate ;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.btn {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    
+}
+
+.caixa{
+    
+    border-width: 5px;     
+    border-top: 3px red solid;
+    border-right: 3px red solid;
+    border-bottom: 3px red solid;
+    border-left: 3px red solid;
+    border-top-style: dotted;
+    
+}
+
