@@ -1,0 +1,25 @@
+@charset 'utf-8';
+
+body{
+    background-color: orange;
+    border: 1px saddlebrown solid;
+}
+
+.container > *{
+    
+    border-radius: 3px;
+    border: 1px solid #fff;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.container{
+    display: flex;
+    align-items: baseline;
+}
+
+
+
+
